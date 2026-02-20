@@ -35,23 +35,36 @@ We replicated the data analysis for all visualizations types and younger adults 
 
 Table 1: Interaction effects of visualization on accuracy rate and task completion.
 
-** INSERT OUR FINAL TABLE HERE **
+![](Visualization Graphs/Table1.png)
 
-Figure 3: Accuracy rate and task completion time by visualizations. Error bars show standard errors.
+Figure 3: Average accuracy rate by visualization type for verbatim task. Error bars show standard errors.
 
-** INSERT OUR FINAL FIGURE(S) HERE **
+![](Visualization Graphs/verbatim_graph.png)
+
+Figure 4: Average accuracy rate by visualization type for value interpretation task. Error bars show standard errors.
+
+![](Visualization Graphs/value_graph.png)
+
+Figure 5: Average task completion time by visualization type. Error bars show standard errors.
+
+![](Visualization Graphs/Time_completion_graph.png)
 
 ## Brief Analysis of our Results
 
-** DO SOME ANALYSIS ON WHETHER OR NOT WE REPLICATED The STUDY **
+For young adults in the original study, they found that accuracy rate for the verbatim tasks slightly decreased from Vis type B to C to D, resulting in Vis D have the lowest verbatim accuracy rate. We did not replicate that trend, and instead found that the Vis B and Vis D were of comparable accuracy rates and are the two highest accuracy rates for verbatim tasks (Figure 3). We also found that Vis D had the highest value interpretation task accuracy rate and Vis A had the lowest (Figure 4).
+
+We did replicate some trends with task completion time. In the original study, Vis D had the highest task completion time for young adults completing both verbatim and value interpretation tasks. This trend also occurred in our results with Vis D having the higest average task completion time (Figure 5). Other than this, we did not replicate the task completion time. However, this is hard to say with full assurance since we did not separate the task completion time for verbatim and value interpretation tasks as was done originally.
+
+The original study concluded that the "four visualizations achieved comparable task performance," which indicated that adding contextual cues would not cause aditional mental workload. Our results support this as well since all average accuracy rates across vis type and question type were above 98%. We can not conclusively say whether adding contextual cues affects task completion time and efficiency because task completion time did not continuously increase with the addition of contextual cues.
 
 # Technical Achievements
 - Created a Vega file of a basic RRNL that could be manipulated for further customization (Zach Medailleu completed this).
-- Incorporated a ReVisit page that included a manditory break time.
+- Incorporated a ReVisit page that included a mandatory break time.
 - Incorporated a ReVisit page that showed each question answered and whether the participant got the answer correct or incorrect.
 
 # Design Achievements
 - Replicated the orientation of the arrow in each of the RRNLs (on top of the number line pointing down at the value).
 - Replicated the speech bubble design of Vis type D for each graph.
 - Oriented multiple HTML elements so the relative orientation of RRNLs and text could be replicated from the study (Zach Medailleu assisted with orienting multiple RRNLs).
-- Visual design of the ReVisit page that showed each question and the participant's accuracy.
+- Visual design of the ReVisit page entitled "study-results" that showed each question and the participant's accuracy.
+- Visual design of the ReVisit page entitled "break-time" that enforced a mandatory break time for participants.
