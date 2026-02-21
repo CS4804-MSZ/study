@@ -1,5 +1,7 @@
 Members: Zoe Fisk, Skyler Lin, Morgan Vasiliou
 
+Link to study: https://cs4804-msz.github.io/MSZ-Project3/rrnl/
+
 # Note
 We did not replicate the Cleveland and McGill study and instead chose another study to replicate. We checked our study with Professor Harrison and got confirmation that our study would be ok to replicate in Vega. Additionally, the visualization type we chose to replicate is a part of our MQP. Our MQP team consists of the members of this team (Zoe Fisk, Skyler Lin, Morgan Vasiliou) and another student from this CS4804 class, Zach Medailleu. Zach contributed to the technical and design achievements of these number lines.
 
