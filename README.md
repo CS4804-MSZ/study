@@ -35,7 +35,7 @@ We replicated the data analysis for all visualizations types and younger adults 
 
 Table 1: Interaction effects of visualization on accuracy rate and task completion.
 
-![](Visualization Graphs/Table1.png)
+![](Visualization Graphs/MSZ table 1.png)
 
 Figure 3: Average accuracy rate by visualization type for verbatim task. Error bars show standard errors.
 
